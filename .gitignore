@@ -80,8 +80,8 @@ local.properties
 ######################
 # Package Files
 ######################
-#*.jar
-*.war
+*.jar
+#*.war
 *.ear
 *.db
 
